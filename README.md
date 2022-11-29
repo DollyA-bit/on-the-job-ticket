@@ -11,4 +11,35 @@ N/A
 Clone repo folder into my desktop and open the starter code
 edit coding and testing using google ( pressing F5 on mac) 
 challenge/Assets/testing .png 
+challenge/Assets/output.png
+challenge/Assets/command after cloning folder from github to open on VS.png
 
+## Credits
+Here are list of resources i used during the project
+https://www.sitepoint.com/community/t/alternative-to-span-that-is-not-a-div/30129
+https://www.w3schools.com/html/html5_semantic_elements.asp#gsc.tab=0
+https://developer.mozilla.org/en-US/docs/Web/HTML/Element/head
+
+## License
+Please refer to the LICENSE in the repo.
+MIT License
+
+Copyright (c) [2022] Dolly Azeez
+
+Permission is hereby granted, free of charge, to any person obtaining a copy
+of this software and associated documentation files (the "Software"), to deal
+in the Software without restriction, including without limitation the rights
+to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
+copies of the Software, and to permit persons to whom the Software is
+furnished to do so, subject to the following conditions:
+
+The above copyright notice and this permission notice shall be included in all
+copies or substantial portions of the Software.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
+AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
+OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
+SOFTWARE.
