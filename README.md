@@ -7,8 +7,8 @@ Lot of problems were sorted during this project - researching more about syntax,
 ## Installation
 N/A
 
-##usage
+## usage
 Clone repo folder into my desktop and open the starter code
 edit coding and testing using google ( pressing F5 on mac) 
-
+challenge/Assets/testing .png 
 
