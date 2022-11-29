@@ -10,9 +10,9 @@ N/A
 ## usage
 Clone repo folder into my desktop and open the starter code
 edit coding and testing using google ( pressing F5 on mac) 
-starter/assets/images/esting .png 
+[starter/assets/images/esting .png 
 starter/assets/images/output.png
-starter/assets/images/command after cloning folder from github to open on VS.png
+starter/assets/images/command after cloning folder from github to open on VS.png](https://github.com/DollyA-bit/on-the-job-ticket/blob/abdbb00b6ad3c9c880c8f6d494586380fb48587c/testing%20.png)
 ## Credits
 Here are list of resources i used during the project
 https://www.sitepoint.com/community/t/alternative-to-span-that-is-not-a-div/30129
